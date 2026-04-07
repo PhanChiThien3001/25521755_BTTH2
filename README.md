@@ -8,11 +8,10 @@
 
 \## Thông tin sinh viên
 
-\* \*\*Họ và tên:\*\* Nguyễn Văn A 
+\* \*\*Họ và tên:\*\* Phan Chí Thiện
 
-\* \*\*MSSV:\*\* 25520001
+\* \*\*MSSV:\*\* 25521755
 
-\* \*\*Lớp:\*\* (Điền mã lớp của bạn vào đây)
 
 
 
